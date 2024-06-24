@@ -1,0 +1,7 @@
+{
+  "results_path": "./results",
+  "learning_rate": 0.001,
+  "weight_decay": 1e-5,
+  "n_epochs": 10,
+  "device": "cuda"
+}
